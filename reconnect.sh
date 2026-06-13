@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/c2_server/listener/auto_reconnect.sh

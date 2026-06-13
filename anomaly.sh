@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/c2_server/modules/anomaly_detector.sh

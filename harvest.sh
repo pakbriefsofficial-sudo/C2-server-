@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/c2_server/modules/data_collect/data_harvester.sh
