@@ -46,3 +46,4 @@ port = $C2_PORT
 print(f'[+] HTTP C2 Listener on port {port}')
 HTTPServer(('0.0.0.0', port), C2Handler).serve_forever()
 "
+// force deploy Wed Jun 17 12:25:24 PKT 2026
